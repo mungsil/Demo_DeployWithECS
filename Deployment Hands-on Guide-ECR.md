@@ -89,3 +89,6 @@ ECR 예시
 ```
 
 그래서 **로컬 이미지 → ECR 주소로 태깅** 과정이 필요합니다.
+
+## 다음으로
+[ECS 실습](Deployment Hands-on Guide-ECS.md)
