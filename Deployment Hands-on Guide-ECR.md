@@ -1,4 +1,4 @@
-# ECR · ECS 실습
+# ECR 실습
 
 Docker 이미지를 빌드한 뒤 **Amazon ECR에 업로드하고 ECS에서 사용하기 위한 기본 실습**입니다.
 
